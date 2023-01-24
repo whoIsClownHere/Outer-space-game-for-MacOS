@@ -12,7 +12,6 @@ class GameView:
     def __init__(self):
         self.player = None
         self.heart = None
-        self.player_image = load_image("ship1.png")
         self.hearts = PLAYER_HEARTS
 
         self.score = {"meteors": 0, "boss_hearts": 0}
