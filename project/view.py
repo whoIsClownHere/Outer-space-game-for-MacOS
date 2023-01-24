@@ -14,8 +14,6 @@ class GameView:
         self.heart = None
         self.hearts = PLAYER_HEARTS
 
-        self.score = {"meteors": 0, "boss_hearts": 0}
-
         self.boss = None
         self.boss_hearts = BOSS_HEARTS
 
