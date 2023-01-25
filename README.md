@@ -5,5 +5,7 @@
 
 # Технологии
 
-<b>PyGame</b>
-<b>random</b>
+<ul>
+  <li>PyGame</li>
+  <li>random</li>
+</ul>
