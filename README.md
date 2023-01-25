@@ -6,6 +6,6 @@
 # Технологии
 
 <ul>
-  <li>PyGame</li>
+  <li>pygame</li>
   <li>random</li>
 </ul>
